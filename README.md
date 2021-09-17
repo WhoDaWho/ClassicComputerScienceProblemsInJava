@@ -1,3 +1,5 @@
+#### Personal Fork
+
 # Classic Computer Science Problems in Java
 This repository contains source code to accompany the book *Classic Computer Science Problems in Java* by David Kopec, [available from Manning](https://www.manning.com/books/classic-computer-science-problems-in-java?a_aid=oaksnow&a_bid=6430148a), [Amazon](https://amzn.to/2LkFICw), and other fine book sellers. You will find the source organized by chapter. **As you read the book, each code listing contains a file name that corresponds to a file in this repository.** The book was published in December, 2020.
 
